@@ -34,8 +34,9 @@ function App() {
           <Route path="/Portfolio" exact component={Main} />
           <Route path="/blog" exact component={BlogPage} />
           <Route path="/projects" exact component={ProjectPage} />
-
-          <Redirect to="/Portfolio" />
+          <Route exact path="/">
+            <Redirect to="/Portfolio" />
+          </Route>
         </Switch>
       </Router>
       <BackToTop />
