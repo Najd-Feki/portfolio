@@ -16,7 +16,7 @@ function Achievement() {
           style={{ backgroundColor: theme.secondary }}
         >
           <div className="achievement-body">
-            <h1 style={{ color: theme.primary }}>Achievements</h1>
+            <h1 style={{ color: theme.primary }}>Experience</h1>
             <h4 style={{ color: theme.tertiary }}>{achievementData.bio}</h4>
           </div>
           <div className="achievement-cards">

@@ -32,9 +32,9 @@ function Main() {
       <Education />
       <Projects />
       <Achievement />
-      {<Blog />}
+      <Blog />
       <Contacts />
-      {<Footer />}
+      {/* {<Footer />} */}
     </div>
   );
 }

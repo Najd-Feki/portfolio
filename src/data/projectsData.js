@@ -42,7 +42,7 @@ export const projectsData = [
     id: 4,
     projectName: "Ream movie",
     projectDesc:
-      "An nnline video platform to capture, share and even sell videos ",
+      "An online video platform to capture, share and even sell videos ",
     tags: ["React", "Nodejs", "MongoDB", "Express.js", "Typescript"],
     code: "",
     demo: "https://ream-movie.com/",
