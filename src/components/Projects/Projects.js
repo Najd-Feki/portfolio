@@ -50,8 +50,11 @@ function Projects() {
           style={{ backgroundColor: theme.secondary }}
         >
           <div className="projects--header">
-            <h1 style={{ color: theme.primary }}>Projects</h1>
+            <h1 style={{ color: theme.primary }}>Selected Projects</h1>
           </div>
+          <p className="projects--header--disclaimer">
+            Here’s a small selection of my public projects:
+          </p>
           <div className="projects--body">
             <div className="projects--bodyContainer">
               {projectsData.slice(0, 4).map((project) => (

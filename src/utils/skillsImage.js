@@ -12,12 +12,27 @@ import csharp from "../assets/svg/skills/csharp.svg";
 import java from "../assets/svg/skills/java.svg";
 import python from "../assets/svg/skills/python.svg";
 import git from "../assets/svg/skills/git.svg";
+import tailwind from "../assets/svg/skills/tailwind.svg";
+import postgresql from "../assets/svg/skills/postgresql.svg";
+import nginx from "../assets/svg/skills/nginx.svg";
+import materialui from "../assets/svg/skills/materialui.svg";
+import aws from "../assets/svg/skills/aws.svg";
 
 export const skillsImage = (skill) => {
   const skillID = skill.toLowerCase();
   switch (skillID) {
     case "html":
       return html;
+    case "nginx":
+      return nginx;
+    case "materialui":
+      return materialui;
+    case "aws":
+      return aws;
+    case "tailwind":
+      return tailwind;
+    case "postgresql":
+      return postgresql;
     case "css":
       return css;
     case "angular":
@@ -35,18 +50,6 @@ export const skillsImage = (skill) => {
       return mongoDB;
     case "mysql":
       return mysql;
-
-    case "c":
-      return c;
-
-    case "c#":
-      return csharp;
-
-    case "java":
-      return java;
-
-    case "python":
-      return python;
 
     case "git":
       return git;

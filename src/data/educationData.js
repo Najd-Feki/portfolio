@@ -10,7 +10,7 @@ export const educationData = [
   {
     id: 2,
     institution: "Higher institute of technological studies ISET Rades",
-    course: "Electrical engineering Bachelor",
+    course: "Electrical engineering bachelor",
     startYear: "2015",
     endYear: "2019",
   },

@@ -1,12 +1,13 @@
 export const skillsData = [
-  "Angular",
-  "C#",
   "Javascript",
+  "Typescript",
   "React",
   "MongoDB",
   "MySQL",
-  "Python",
-  "Java",
-  "Typescript",
   "Git",
+  "tailwind",
+  "postgresql",
+  "nginx",
+  "materialui",
+  "aws",
 ];

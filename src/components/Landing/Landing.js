@@ -9,11 +9,10 @@ import { headerData } from "../../data/headerData";
 import { socialsData } from "../../data/socialsData";
 
 import {
-  FaTwitter,
   FaLinkedin,
   FaGithub,
-  FaYoutube,
-  FaBlogger,
+  FaMedium,
+  FaStackOverflow,
 } from "react-icons/fa";
 
 function Landing() {
@@ -93,6 +92,28 @@ function Landing() {
                 />
               </a>
             )}
+            {socialsData.stackOverflow && (
+              <a
+                href={socialsData.stackOverflow}
+                target="_blank"
+                rel="noreferrer"
+              >
+                <FaStackOverflow
+                  className="landing--social"
+                  style={{ color: theme.secondary }}
+                  aria-label="GitHub"
+                />
+              </a>
+            )}
+            {socialsData.medium && (
+              <a href={socialsData.medium} target="_blank" rel="noreferrer">
+                <FaMedium
+                  className="landing--social"
+                  style={{ color: theme.secondary }}
+                  aria-label="GitHub"
+                />
+              </a>
+            )}
             {/* {socialsData.twitter && (
                             <a
                                 href={socialsData.twitter}
@@ -156,11 +177,11 @@ function Landing() {
               {headerData.resumePdf && (
                 <a
                   href={headerData.resumePdf}
-                  download="Najd Feki Resume"
+                  download="Najd Feki Resume 2024"
                   target="_blank"
                   rel="noreferrer"
                 >
-                  <Button className={classes.resumeBtn}>Download CV</Button>
+                  <Button className={classes.resumeBtn}>Resume</Button>
                 </a>
               )}
               <NavLink to="/#contacts" smooth={true} spy="true" duration={2000}>

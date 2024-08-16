@@ -3,34 +3,50 @@ export const achievementData = {
   achievements: [
     {
       id: 1,
-      title: "Full Stack web developer at Edonec",
+      title: "Full Stack contractor at Front Row Group",
       details:
-        "Worked with react/react native/node.js (mern stack) and many other tools to create and maintain multiple web/mobile projects",
-      date: "Juin, 2021 - current",
-      field: "Full Time Job",
+        "Developed and maintained custom web applications, leveraging full-stack development skills to deliver high- performance solutions.",
+      date: "December, 2022",
+      field: "Hourly Contractor Job",
     },
     {
       id: 2,
-      title: "Full Stack web developer at Germanetti ",
+      title: "Full Stack Team Lead web developer at Aroundix",
       details:
-        "Developement of a managment application using angular and spring",
-      date: "Aug, 2020 - Sep, 2020",
-      field: "Internship",
+        "Led a high-performing development team, coding and fostering collaboration and setting project goals.",
+      date: "June, 2022",
+      field: "Full Time Job",
     },
     {
       id: 3,
-      title: "Automation engineer at Poulina group Holding",
+      title: "Full Stack web developer at Edonec",
       details:
-        "Using Siemens controllers to implement an Automated Guided Vehicles (AGV) system to automate and facilitate the product storage using VB and mssql.",
-      date: "Feb, 2019 - Mai,2019",
-      field: "Internship",
+        "Worked with react, react native and node.js and many other tools to create and maintain multiple web/mobile projects.",
+      date: "June, 2021",
+      field: "Full Time Job",
     },
     {
       id: 4,
+      title: "Full Stack web developer at Germanetti",
+      details:
+        "Developement of a managment application using angular and spring.",
+      date: "Aug, 2019",
+      field: "Internship",
+    },
+    {
+      id: 5,
+      title: "Automation engineer at Poulina group Holding",
+      details:
+        "Using Siemens controllers to implement an Automated Guided Vehicles (AGV) system to automate and facilitate the product storage using VB and mssql.",
+      date: "Feb, 2019",
+      field: "Internship",
+    },
+    {
+      id: 6,
       title: "Embedded system engineer at Kollab Agency",
       details:
         "Designing and modeling of a self flying drone using raspberry as an advertising floating screen.",
-      date: "Mar, 2018 - Sep,2018",
+      date: "Mar, 2018",
       field: "Internship",
     },
   ],
