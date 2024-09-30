@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Portfolio/static/css/main.dd0e6110.chunk.css",
-    "main.js": "/Portfolio/static/js/main.bfc2aa09.chunk.js",
-    "main.js.map": "/Portfolio/static/js/main.bfc2aa09.chunk.js.map",
+    "main.js": "/Portfolio/static/js/main.d0b49d90.chunk.js",
+    "main.js.map": "/Portfolio/static/js/main.d0b49d90.chunk.js.map",
     "runtime-main.js": "/Portfolio/static/js/runtime-main.27927670.js",
     "runtime-main.js.map": "/Portfolio/static/js/runtime-main.27927670.js.map",
     "static/css/2.2a402c22.chunk.css": "/Portfolio/static/css/2.2a402c22.chunk.css",
@@ -15,7 +15,7 @@
     "static/css/main.dd0e6110.chunk.css.map": "/Portfolio/static/css/main.dd0e6110.chunk.css.map",
     "static/js/2.2d74fd55.chunk.js.LICENSE.txt": "/Portfolio/static/js/2.2d74fd55.chunk.js.LICENSE.txt",
     "static/media/index.css": "/Portfolio/static/media/BestermindRegular.e58a1922.ttf",
-    "static/media/Najd Feki Resume 2024.f20e16c5.pdf": "/Portfolio/static/media/Najd Feki Resume 2024.f20e16c5.pdf",
+    "static/media/Najd Feki Resume 2024.5355107a.pdf": "/Portfolio/static/media/Najd Feki Resume 2024.5355107a.pdf",
     "static/media/angular.8f069a35.svg": "/Portfolio/static/media/angular.8f069a35.svg",
     "static/media/aws.ef6fb669.svg": "/Portfolio/static/media/aws.ef6fb669.svg",
     "static/media/blueTheme-boy.b2f186cb.svg": "/Portfolio/static/media/blueTheme-boy.b2f186cb.svg",
@@ -95,6 +95,6 @@
     "static/css/2.2a402c22.chunk.css",
     "static/js/2.2d74fd55.chunk.js",
     "static/css/main.dd0e6110.chunk.css",
-    "static/js/main.bfc2aa09.chunk.js"
+    "static/js/main.d0b49d90.chunk.js"
   ]
 }
