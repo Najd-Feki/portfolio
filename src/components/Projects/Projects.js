@@ -57,7 +57,7 @@ function Projects() {
           </p>
           <div className="projects--body">
             <div className="projects--bodyContainer">
-              {projectsData.slice(0, 4).map((project) => (
+              {projectsData.slice(0, 6).map((project) => (
                 <SingleProject
                   theme={theme}
                   key={project.id}

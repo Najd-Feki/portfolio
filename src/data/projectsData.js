@@ -1,5 +1,9 @@
 import nodeJs from "../assets/png/nodejs_logo.png";
 import devwizards from "../assets/png/devwizards.png";
+import asap from "../assets/png/logo-gradient.png";
+import ream from "../assets/png/ream.jpg";
+import kepler from "../assets/png/kepler.svg";
+import elbaab from "../assets/png/elbaab.png";
 export const projectsData = [
   {
     id: 1,
@@ -18,7 +22,7 @@ export const projectsData = [
     tags: ["React", "Nodejs", "MongoDB", "Express.js", "Typescript"],
     code: "",
     demo: "https://ream-movie.com/",
-    image: "https://i.ibb.co/K5QQvwK/ream.png",
+    image: ream,
     isPrivate: true,
   },
   {
@@ -29,11 +33,50 @@ export const projectsData = [
     tags: ["React", "Nodejs", "MongoDB", "Express.js", "Typescript"],
     code: "",
     demo: "https://keplertravel.com/",
-    image: "https://i.ibb.co/N12QfPH/kepler.png",
+    image: kepler,
     isPrivate: true,
   },
   {
     id: 4,
+    projectName: "ASAP Marketplace",
+    projectDesc:
+      "A multi application marketplace with 3 mobile apps a main website and a dashboard",
+    tags: [
+      "React",
+      "React Native",
+      "Nodejs",
+      "MongoDB",
+      "Express.js",
+      "Typescript",
+    ],
+    code: "",
+    demo: "https://asapforyou.fr/",
+    image: asap,
+    isPrivate: true,
+  },
+  {
+    id: 5,
+    projectName: "EL Baab Marketplace",
+    projectDesc:
+      "A multi application marketplace with 3 mobile apps a main website and a 2 dashboards",
+    tags: [
+      "React",
+      "Nextjs",
+      "Flutter",
+      "Nodejs",
+      "MongoDB",
+      "Solar",
+      "Graphql",
+      "Express.js",
+      "Typescript",
+    ],
+    code: "",
+    demo: "https://elbaab.com/",
+    image: elbaab,
+    isPrivate: true,
+  },
+  {
+    id: 6,
     projectName: "Online eyewear store",
     projectDesc: "An online eyewear gallery with many choices and filters",
     tags: ["Vue", "Typescript"],
@@ -43,7 +86,7 @@ export const projectsData = [
   },
 
   {
-    id: 5,
+    id: 7,
     projectName: "Blitz learning assistant",
     projectDesc:
       "A platform that allows users to progress with their learning and skills with the help of a chatbot made with Dialogflow and many other features.",
@@ -53,7 +96,7 @@ export const projectsData = [
     image: "https://i.ibb.co/86G9nwy/blitz.png",
   },
   {
-    id: 6,
+    id: 8,
     projectName: "Resume Parser API",
     projectDesc:
       "An Online Resume parser api that can turn any pdf resume into json data to help companies and HRs filter resumes. ",
