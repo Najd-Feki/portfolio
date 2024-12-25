@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Portfolio/static/css/main.dd0e6110.chunk.css",
-    "main.js": "/Portfolio/static/js/main.d0b49d90.chunk.js",
-    "main.js.map": "/Portfolio/static/js/main.d0b49d90.chunk.js.map",
+    "main.js": "/Portfolio/static/js/main.55a19555.chunk.js",
+    "main.js.map": "/Portfolio/static/js/main.55a19555.chunk.js.map",
     "runtime-main.js": "/Portfolio/static/js/runtime-main.27927670.js",
     "runtime-main.js.map": "/Portfolio/static/js/runtime-main.27927670.js.map",
     "static/css/2.2a402c22.chunk.css": "/Portfolio/static/css/2.2a402c22.chunk.css",
@@ -67,6 +67,8 @@
     "static/media/html.75bdf0b0.svg": "/Portfolio/static/media/html.75bdf0b0.svg",
     "static/media/java.e9ccff93.svg": "/Portfolio/static/media/java.e9ccff93.svg",
     "static/media/javascript.f84ec710.svg": "/Portfolio/static/media/javascript.f84ec710.svg",
+    "static/media/kepler.041ed088.svg": "/Portfolio/static/media/kepler.041ed088.svg",
+    "static/media/logo-gradient.787d3de9.png": "/Portfolio/static/media/logo-gradient.787d3de9.png",
     "static/media/materialui.d7f5c38f.svg": "/Portfolio/static/media/materialui.d7f5c38f.svg",
     "static/media/mongoDB.4428e2ce.svg": "/Portfolio/static/media/mongoDB.4428e2ce.svg",
     "static/media/mysql.61d16d64.svg": "/Portfolio/static/media/mysql.61d16d64.svg",
@@ -95,6 +97,6 @@
     "static/css/2.2a402c22.chunk.css",
     "static/js/2.2d74fd55.chunk.js",
     "static/css/main.dd0e6110.chunk.css",
-    "static/js/main.d0b49d90.chunk.js"
+    "static/js/main.55a19555.chunk.js"
   ]
 }
